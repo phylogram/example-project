@@ -1,5 +1,5 @@
 # example-project
-A example project of data a simple data analysis with pandas
+A example project of a simple data analysis with pandas
 
 
 ## Purpose
